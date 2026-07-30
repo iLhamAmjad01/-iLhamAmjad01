@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:1A1A2E,100:16213E&height=280&section=header&text=Ilham%20Amjad&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React.js%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F5F5F7,100:ECECEE&height=280&section=header&text=Ilham%20Amjad&fontSize=60&fontColor=111111&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React.js%20Specialist&descAlignY=58&descSize=18&descColor=4B4B4B&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=E5E5E5&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Clean+architecture.+Reusable+components.;Performance-first%2C+production-ready+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Clean+architecture.+Reusable+components.;Performance-first%2C+production-ready+code.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://portfolio-updated-ilham-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-updated-ilham-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ilham-amjad-bb5901257/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ilhamamjad4050@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1A2E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ilhamamjad4050@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/iLhamAmjad01"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## About Me
 
@@ -29,7 +29,7 @@ My development philosophy is simple: interfaces should feel fast and intentional
 
 Currently, I am deepening my expertise in advanced React patterns and backend system design, while contributing to and building open-source tooling that other developers can rely on.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Current Focus
 
@@ -56,7 +56,7 @@ Currently, I am deepening my expertise in advanced React patterns and backend sy
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Tech Stack
 
@@ -64,27 +64,27 @@ Currently, I am deepening my expertise in advanced React patterns and backend sy
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=light" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=light" />
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=light" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma,npm&theme=light" />
 
 **Deployment**
 
-<img src="https://skillicons.dev/icons?i=netlify,vercel,render&theme=dark" />
+<img src="https://skillicons.dev/icons?i=netlify,vercel,render&theme=light" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Services
 
@@ -117,7 +117,7 @@ Auditing and improving load times, bundle size, rendering performance, and Core 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Featured Projects
 
@@ -130,7 +130,7 @@ Personal developer portfolio built to showcase projects, skills, and experience 
 
 **Stack:** React.js · Tailwind CSS · Vercel
 
-<a href="https://portfolio-updated-ilham-dev.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-updated-ilham-dev.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
@@ -141,7 +141,7 @@ Full stack e-commerce application with product management, cart functionality, a
 
 **Stack:** React.js · Node.js · Express.js · MongoDB
 
-<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
@@ -154,7 +154,7 @@ Analytics and management dashboard with authentication, role-based routing, and 
 
 **Stack:** React.js · Redux · Express.js · MongoDB
 
-<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
@@ -165,50 +165,50 @@ Structured backend API with authentication, input validation, and clean route ar
 
 **Stack:** Node.js · Express.js · MongoDB · JWT
 
-<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iLhamAmjad01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=C9C9C9&icon_color=6E56CF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLhamAmjad01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=C9C9C9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iLhamAmjad01&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333&icon_color=6E56CF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLhamAmjad01&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=iLhamAmjad01&theme=dark&hide_border=true&background=0D1117&ring=6E56CF&fire=E5E5E5&currStreakLabel=E5E5E5" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=iLhamAmjad01&theme=default&hide_border=true&background=FFFFFF&ring=6E56CF&fire=FF6B6B&currStreakLabel=111111&sideLabels=333333&sideNums=111111&dates=999999&currStreakNum=111111" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iLhamAmjad01&theme=github-compact&bg_color=0D1117&color=E5E5E5&line=6E56CF&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iLhamAmjad01&theme=minimal&bg_color=FFFFFF&color=111111&line=6E56CF&point=111111&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iLhamAmjad01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iLhamAmjad01&theme=flat&no-frame=true&margin-w=8&row=1" width="90%"/>
 
 </div>
 
-<details>
-<summary><b>GitHub Contribution Snake</b></summary>
-<br/>
+### Contribution Snake
 
-<img src="https://raw.githubusercontent.com/iLhamAmjad01/iLhamAmjad01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<div align="center">
 
-</details>
+<img src="https://raw.githubusercontent.com/iLhamAmjad01/iLhamAmjad01/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
 
 <div align="center">
 <br/>
-<img src="https://komarev.com/ghpvc/?username=iLhamAmjad01&style=flat-square&color=1A1A2E&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=iLhamAmjad01&style=flat-square&color=FFFFFF&label=PROFILE+VIEWS" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Automation
 
@@ -245,8 +245,8 @@ jobs:
         with:
           github_user_name: iLhamAmjad01
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -320,7 +320,7 @@ jobs:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,100:0F0F0F&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ECECEE,100:FFFFFF&height=2&width=1000" width="100%"/>
 
 ## Contact
 
@@ -338,7 +338,7 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:1A1A2E,100:16213E&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F5F5F7,100:ECECEE&height=140&section=footer" width="100%"/>
 
 <div align="center">
 <sub>Designed and built by Ilham Amjad</sub>
