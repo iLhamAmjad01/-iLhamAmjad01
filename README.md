@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Ilham Amjad — Full Stack MERN Developer"/>
