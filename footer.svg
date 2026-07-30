@@ -1,0 +1,33 @@
+<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="f-bg" x1="0" y1="0" x2="1600" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05060A"/>
+      <stop offset="100%" stop-color="#0A0C14"/>
+    </linearGradient>
+    <linearGradient id="f-line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F8CFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8B7CFF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#6C4CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="f-text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EDEEF7"/>
+      <stop offset="100%" stop-color="#B9C0FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="220" fill="url(#f-bg)"/>
+  <rect x="0" y="0" width="1600" height="1.5" fill="url(#f-line)"/>
+
+  <!-- three small layer marks echoing the banner signature, closing the composition -->
+  <g transform="translate(80,60)">
+    <rect x="0" y="0" width="46" height="10" rx="4" fill="#4F8CFF" fill-opacity="0.6"/>
+    <rect x="10" y="16" width="46" height="10" rx="4" fill="#8B7CFF" fill-opacity="0.6"/>
+    <rect x="20" y="32" width="46" height="10" rx="4" fill="#6C4CFF" fill-opacity="0.6"/>
+  </g>
+
+  <text x="80" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="url(#f-text)">Ilham Amjad</text>
+  <text x="80" y="162" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#6B7090">Full Stack MERN Developer · Islamabad, Pakistan</text>
+
+  <text x="1520" y="130" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#6B7090" text-anchor="end">Thanks for reading</text>
+  <text x="1520" y="152" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#8B7CFF" text-anchor="end">Let's build something well-made</text>
+</svg>

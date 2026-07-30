@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow-a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 200) rotate(90) scale(500 700)">
+      <stop stop-color="#4F8CFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#4F8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1300 700) rotate(90) scale(600 800)">
+      <stop stop-color="#6C4CFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#6C4CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dot-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#B9C0FF" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="#05060A"/>
+  <rect width="1600" height="900" fill="url(#glow-a)"/>
+  <rect width="1600" height="900" fill="url(#glow-b)"/>
+  <rect width="1600" height="900" fill="url(#dot-grid)"/>
+
+  <!-- faint architectural layer lines, echoing the stack signature at low opacity -->
+  <g opacity="0.10" stroke="#8B7CFF" stroke-width="1">
+    <line x1="0" y1="260" x2="1600" y2="260"/>
+    <line x1="0" y1="450" x2="1600" y2="450"/>
+    <line x1="0" y1="640" x2="1600" y2="640"/>
+  </g>
+</svg>

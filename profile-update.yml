@@ -1,0 +1,67 @@
+name: Rotate Current Focus
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pick next focus line and update README
+        run: |
+          set -e
+
+          FOCUS_LIST=(
+            "Refining a component library built on Tailwind CSS and Radix primitives."
+            "Deepening Node.js and Express service design — validation, error handling, rate limiting."
+            "Hardening JWT authentication flows across a multi-tenant MERN application."
+            "Improving MongoDB schema design and query performance for a dashboard product."
+            "Studying Next.js server components and data-fetching patterns for production apps."
+            "Optimizing React render performance and bundle size on a client-facing product."
+          )
+
+          WEEK=$(date +%V)
+          INDEX=$(( 10#$WEEK % ${#FOCUS_LIST[@]} ))
+          NEW_LINE="${FOCUS_LIST[$INDEX]}"
+
+          python3 - "$NEW_LINE" <<'PYEOF'
+          import re
+          import sys
+          from pathlib import Path
+
+          new_line = sys.argv[1]
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          pattern = re.compile(
+              r"(<!-- FOCUS:START -->)(.*?)(<!-- FOCUS:END -->)",
+              re.DOTALL,
+          )
+
+          if not pattern.search(text):
+              raise SystemExit("FOCUS markers not found in README.md")
+
+          replacement = r"\1\n" + new_line + r"\n\3"
+          updated = pattern.sub(replacement, text, count=1)
+          path.write_text(updated, encoding="utf-8")
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: rotate current focus line"
+            git push
+          else
+            echo "No changes to commit"
+          fi

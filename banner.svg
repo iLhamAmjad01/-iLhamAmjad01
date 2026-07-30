@@ -1,0 +1,74 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05060A"/>
+      <stop offset="55%" stop-color="#0A0C14"/>
+      <stop offset="100%" stop-color="#05060A"/>
+    </linearGradient>
+
+    <linearGradient id="layer-client" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F8CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4F8CFF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="layer-server" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B7CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8B7CFF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="layer-data" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6C4CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6C4CFF" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EDEEF7"/>
+      <stop offset="100%" stop-color="#B9C0FF"/>
+    </linearGradient>
+
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4F8CFF"/>
+      <stop offset="100%" stop-color="#8B7CFF"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg-grad)"/>
+
+  <!-- signature: three stacked layers representing Client / Server / Data, the shape of a MERN request -->
+  <g transform="translate(980,60)" opacity="0.9">
+    <rect x="0" y="0" width="560" height="70" rx="14" fill="url(#layer-client)"/>
+    <rect x="40" y="100" width="520" height="70" rx="14" fill="url(#layer-server)"/>
+    <rect x="80" y="200" width="480" height="70" rx="14" fill="url(#layer-data)"/>
+
+    <line x1="60" y1="70" x2="60" y2="100" stroke="#B9C0FF" stroke-width="1.5" stroke-opacity="0.5"/>
+    <line x1="120" y1="170" x2="120" y2="200" stroke="#B9C0FF" stroke-width="1.5" stroke-opacity="0.5"/>
+    <circle cx="60" cy="85" r="3.5" fill="#4F8CFF"/>
+    <circle cx="120" cy="185" r="3.5" fill="#8B7CFF"/>
+
+    <text x="24" y="45" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" fill="#EDEEF7" fill-opacity="0.85" letter-spacing="0.5">CLIENT — React / Next.js</text>
+    <text x="64" y="145" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" fill="#EDEEF7" fill-opacity="0.85" letter-spacing="0.5">SERVER — Node / Express</text>
+    <text x="104" y="245" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" fill="#EDEEF7" fill-opacity="0.85" letter-spacing="0.5">DATA — MongoDB</text>
+  </g>
+
+  <!-- kicker -->
+  <text x="80" y="140" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="18" letter-spacing="4" fill="#8B7CFF">FULL STACK MERN DEVELOPER</text>
+
+  <!-- name -->
+  <text x="78" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#text-grad)">Ilham Amjad</text>
+
+  <!-- accent rule -->
+  <rect x="80" y="248" width="120" height="4" rx="2" fill="url(#accent-line)"/>
+
+  <!-- subline -->
+  <text x="80" y="300" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#AEB3C9">Building fast, reliable products end to end —</text>
+  <text x="80" y="335" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#AEB3C9">interface, API and database, shipped as one system.</text>
+
+  <!-- location / contact strip -->
+  <text x="80" y="385" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" fill="#6B7090">Islamabad, Pakistan · React.js Specialist</text>
+</svg>
